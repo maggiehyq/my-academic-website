@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: hyq@smbu.edu.cn
-  phone: +
+  #phone: +
   address:
     street: ' 1 International University Park Road'
     city: Shenzhen

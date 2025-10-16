@@ -20,7 +20,7 @@ bio: I serve as an Assistant Professor of Economics at Shenzhen MSU-BIT Universi
 
 # Interests to show in About widget
 interests:
-  - Real Estate： Housing Market, Social Infrastructure, Real Estate Finance, Land Economics
+  - Real Estate：Housing Market, Social Infrastructure, Real Estate Finance, Land Economics
   - Urban Policy：Health, Migration, Digital Economics, Environment
   - Data Science：NLP, Spatial Analysis, Machine Learning  
 
@@ -31,12 +31,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '#contact'
-  - icon: academicons/orcid
+  - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6843-1067
-  - icon: academicons/researchgate 
+  - icon: researchgate 
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yiqi-Huang-7
+  - icon: github 
+    icon_pack: fab
+    link: https://github.com/maggiehyq/
+- icon: linkedin 
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yiqi-huang-maggie6050/  
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
