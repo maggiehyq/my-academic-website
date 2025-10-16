@@ -28,12 +28,12 @@ content:
   email: hyq@smbu.edu.cn
   #phone: +
   address:
-    street: ' 1 International University Park Road'
-    city: Shenzhen
-    region: Longgang District
-    postcode: '518172'
-    country: China
-    country_code: CN
+    street: ' 1 International University Park Road, 518172, Shenzhen'
+    #city: Shenzhen
+    #region: Longgang District
+    #postcode: '518172'
+    #country: China
+    #country_code: CN
   coordinates:
     latitude: '22.679322'
     longitude: '114.205778'
