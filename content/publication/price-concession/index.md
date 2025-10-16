@@ -10,7 +10,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-09'
+date: '2021-09-01'
 doi: '10.1016/j.habitatint.2021.102442'
 
 # Schedule page publish date (NOT publication's date).

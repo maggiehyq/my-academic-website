@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-01'
+date: '2025-01-01'
 #doi: 10.1016/j.habitatint.2024.103053
 
 # Schedule page publish date (NOT publication's date).
