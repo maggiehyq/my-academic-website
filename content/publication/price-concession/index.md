@@ -38,8 +38,8 @@ abstract: The seller's price concession reflects the existence of asymmetric inf
 featured: false
 
 links:
-- name: Online Access
-  url: https://www.sciencedirect.com/science/article/pii/S0197397521001314?via%3Dihub
+  - name: Online Access
+    url: https://www.sciencedirect.com/science/article/pii/S0197397521001314?via%3Dihub
 url_pdf: ''
 url_code: ''
 url_dataset: '/files/papers/concession_2021.pdf'

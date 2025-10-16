@@ -42,7 +42,7 @@ featured: false
 
 links:
   - name: Online Access
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4424206
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4424206
 url_pdf: ''
 url_code: 
 url_dataset: ''

@@ -42,9 +42,9 @@ abstract: "This paper investigates how childhood housing conditions shape long-t
 # Display this page in the Featured widget?
 featured: false
 
-links: 
+links:
   - name: Online Access
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5598234
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5598234
 url_pdf: ''
 url_code: 
 url_dataset: ''

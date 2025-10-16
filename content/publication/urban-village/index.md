@@ -43,7 +43,7 @@ featured: false
 
 links:
   - name: Online Access
-  url: https://www.gssinst.org/irer/2025/03/28/urban-village-redevelopment-and-local-housing-market-in-china/
+    url: https://www.gssinst.org/irer/2025/03/28/urban-village-redevelopment-and-local-housing-market-in-china/
 url_pdf: /files/papers/urbanvillage_2025.pdf
 url_code: ''
 url_dataset: ''
