@@ -18,8 +18,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I serve as an Assistant Professor of Economics at Shenzhen MSU-BIT University, focusing on individual behavior, information transfer, and price formation in urban economics. My recent work shed light on the market interaction and signaling mechanisms in online and offline housing transactions.
 
-widget: "about"
-weight: 15
+
 # Interests to show in About widget
 interests:
   - "Real Estate: Housing Market, Social Infrastructure, Real Estate Finance, Land Economics"
