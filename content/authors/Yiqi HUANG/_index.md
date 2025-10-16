@@ -20,9 +20,9 @@ bio: I serve as an Assistant Professor of Economics at Shenzhen MSU-BIT Universi
 
 # Interests to show in About widget
 interests:
-  -Real Estate：Housing Market, Social Infrastructure, Real Estate Finance, Land Economics
-  -Urban Policy：Health, Migration, Digital Economics, Environment
-  -Data Science：NLP, Spatial Analysis, Machine Learning  
+  - Real Estate: Housing Market, Social Infrastructure, Real Estate Finance, Land Economics
+  - Urban Policy: Health, Migration, Digital Economics, Environment
+  - Data Science: NLP, Spatial Analysis, Machine Learning 
 
 social:
 #  - icon: cv
