@@ -27,7 +27,7 @@ experience:
     company_url: https://www.smbu.edu.cn/
     company_logo: ''
     location: Shenzhen, China
-    date_start: '2024-08'
+    date_start: '2024-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -40,8 +40,8 @@ experience:
     company_url: https://www.ruc.edu.cn/
     company_logo: ''
     location: Beijing, China
-    date_start: '2021-09'
-    date_end: '2024-06'
+    date_start: '2021-09-01'
+    date_end: '2024-06-01'
     description: |2-
         Responsibilities include:
         * PhD Thesis on *Resale Housing Market interaction in China: Based on the Perspective of Regular Housing and Judicial Auction Housing*. 
