@@ -20,7 +20,10 @@ bio: I serve as an Assistant Professor of Economics at Shenzhen MSU-BIT Universi
 
 
 # Interests to show in About widget
-interests: Real Estate Economics, Urban Policy Analysis, Data Science 
+interests: 
+  - Real Estate Economics
+  - Urban Policy Analysis  
+  - Data Science
 
 social:
 #  - icon: cv
