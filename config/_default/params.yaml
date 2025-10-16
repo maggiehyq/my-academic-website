@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'mutschler.dev'
-    description: 'Tech blog of Willi Mutschler'
+    org_name: 'Yiqi.HUANG'
+    description: 'Tech blog of Yiqi Huang'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Willi Mutschler. This work is licensed under {license}'
+    notice: '© {year} Yiqi Huang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: true
